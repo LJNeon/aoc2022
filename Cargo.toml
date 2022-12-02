@@ -1,0 +1,9 @@
+[package]
+name = 'aoc2022'
+authors = ['LJ Talbot <eljayt@protonmail.com>']
+version = '0.1.0'
+edition = '2021'
+publish = false
+
+[dependencies]
+prettytable-rs = "0.9"
